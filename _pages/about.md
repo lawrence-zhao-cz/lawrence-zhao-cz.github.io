@@ -10,9 +10,10 @@ profile:
   image: profile_pic.jpg
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>6100 Main St, Houston, TX 77005</p>
-    <p>Email: <a href='mailto:lawrence.zhao@rice.edu'>lawrence.zhao@rice.edu</a></p>
-    <p>Phone: (802)-230-6684</p>
+    <p>6100 Main Street</p>
+    <p>Houston, Texas 77005</p>
+    <p><a href='mailto:lawrence.zhao@rice.edu'>lawrence.zhao@rice.edu</a></p>
+    <p>(802)-230-6684</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
