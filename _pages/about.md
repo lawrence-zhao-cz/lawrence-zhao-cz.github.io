@@ -20,6 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<br/><br/>
+
 Welcome!
 
 I am a Finance Ph.D. candidate at the Jesse H. Jones Graduate School of Business at Rice University.
