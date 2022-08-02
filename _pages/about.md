@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:lawrence.zhao@rice.edu'>Email: </a>
+subtitle: >
+  <p><a href='mailto:lawrence.zhao@rice.edu'>Email: lawrence.zhao@rice.edu </a></p>
+  <p>Phone: (802)-230-6684</p>
 
 profile:
   align: right
