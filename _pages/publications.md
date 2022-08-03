@@ -12,7 +12,6 @@ nav_order: 1
 <div class="publications">
 
 <h1>Job Market Paper</h1>
-## Job Market Paper
   
 {% bibliography -f jobmarketpaper %}
 
