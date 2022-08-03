@@ -11,19 +11,6 @@ nav_order: 1
 
 <div class="publications">
 
-<h1>Job Market Paper</h1>
-  
-{% bibliography -f jobmarketpaper %}
-
-<h1>Working Papers</h1>
-
-{% bibliography -f workingpapers %}
-  
- 
-<h1>Select Work In Progress</h1>
-
-{% bibliography -f workinprogress %}
-  
 <h1>Publications</h1>
 
 {% for y in page.years %}
