@@ -11,20 +11,25 @@ nav_order: 1
 
 <div class="publications">
 
-<h1>preprints</h1>
-## preprints
+<h1>Job Market Paper</h1>
+## Job Market Paper
   
-{% bibliography -f preprints %}
+{% bibliography -f jobmarketpaper %}
 
-<h1>conference &amp; journal articles</h1>
+<h1>workingpapers</h1>
+
+{% bibliography -f workingpapers %}
+  
+ 
+<h1>workinprogress</h1>
+
+{% bibliography -f workinprogress %}
+  
+<h1>publishedpapers</h1>
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f publishedpapers -q @*[year={{y}}]* %}
 {% endfor %}
-
-<h1>technical reports &amp; short papers</h1>
-
-{% bibliography -f reports %}
 
 </div>
