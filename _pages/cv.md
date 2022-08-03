@@ -10,6 +10,4 @@ In case the inline PDF does not appear, you may download the PDF file [here]({{ 
 
 In case the inline PDF does not appear, you may download the PDF file [here]({{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}).
 
-{% assign rootpath = '/' | relative_url %}
 In case the inline PDF does not appear, you may download the PDF file [here]({{ site.cv.pdf | prepend: pathprefix | relative_url }}).
-{% pdf site.cv.pdf | page.title | rootpath %}
