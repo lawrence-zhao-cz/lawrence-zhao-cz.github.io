@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 description: View or download my Curriculum Vitae. For any inquiries or questions please do not hesitate to contact me.
 nav: true
 nav_order: 4
