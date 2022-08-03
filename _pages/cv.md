@@ -7,4 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-In case the inline PDF does not appear, you may download the PDF file [here]({{ site.cv.pdf | prepend: pathprefix | relative_url }}).
+Download my [Curriculum Vitae]({{ site.cv.pdf | prepend: pathprefix | relative_url }}).
+
+---
+{% pdf "/assets/pdf/example_pdf.pdf" %}
