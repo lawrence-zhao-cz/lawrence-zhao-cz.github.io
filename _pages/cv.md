@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 description: Within this page you can view or download my CV. It will be updated periodically. For any inquiries or questions please do not hesitate to contact me.
