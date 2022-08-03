@@ -226,7 +226,11 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: publishedpapers.bib
+  bibliography: 
+    - jobmarketpaper.bib
+    - workingpapers.bib
+    - workinprogress.bib
+    - publishedpapers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
