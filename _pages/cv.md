@@ -6,4 +6,4 @@ description: Within this page you can view or download my CV. It will be updated
 nav: true
 nav_order: 4
 ---
-In case the inline PDF does not appear, you may download the PDF file [here]({{ site.example_pdf.pdf | prepend: pathprefix | relative_url }}).
+In case the inline PDF does not appear, you may download the PDF file [here].
