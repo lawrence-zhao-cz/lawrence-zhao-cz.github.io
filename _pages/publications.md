@@ -16,16 +16,16 @@ nav_order: 1
   
 {% bibliography -f jobmarketpaper %}
 
-<h1>workingpapers</h1>
+<h1>Working Papers</h1>
 
 {% bibliography -f workingpapers %}
   
  
-<h1>workinprogress</h1>
+<h1>Select Work In Progress</h1>
 
 {% bibliography -f workinprogress %}
   
-<h1>publishedpapers</h1>
+<h1>Publications</h1>
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
