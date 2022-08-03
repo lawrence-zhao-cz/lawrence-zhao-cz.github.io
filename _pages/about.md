@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: Ph.D. Candidate in Finance, Jesse H. Jones Graduate School of Business
 
