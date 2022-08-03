@@ -8,4 +8,4 @@ nav_order: 4
 ---
 {% assign rootpath = '/' | relative_url %}
 In case the inline PDF does not appear, you may download the PDF file [here]({{ example_pdf.pdf | prepend: pathprefix | relative_url }}).
-{% pdf site.cv.pdf | page.title | rootpath %}
+{% pdf example_pdf.pdf | page.title | rootpath %}
