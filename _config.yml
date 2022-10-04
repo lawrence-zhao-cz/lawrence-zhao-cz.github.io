@@ -248,7 +248,7 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, progress]
 
 # Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
-max_author_limit: 
+max_author_limit: 5
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
