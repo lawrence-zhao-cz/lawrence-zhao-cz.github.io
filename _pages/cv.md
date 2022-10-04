@@ -10,4 +10,4 @@ nav_order: 4
 Download my [Curriculum Vitae]({{ site.cv.pdf | prepend: pathprefix | relative_url }}).
 
 ---
-{% pdf "/assets/pdf/example_pdf.pdf" %}
+{% pdf "/assets/pdf/CV_LawrenceZhao.pdf" %}
