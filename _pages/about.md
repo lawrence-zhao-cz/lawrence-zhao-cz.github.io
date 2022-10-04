@@ -26,5 +26,5 @@ Welcome!
 
 I am a Finance Ph.D. candidate at the Jesse H. Jones Graduate School of Business at Rice University.
 
-My research interests are in empirical corporate finance and household finance. 
+My research interests include empirical corporate finance, household finance, competition, and financial intermediation. 
 
