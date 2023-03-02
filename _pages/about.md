@@ -28,5 +28,5 @@ I am a Finance Ph.D. candidate at the Jesse H. Jones Graduate School of Business
 
 My research interests include empirical corporate finance, household finance, competition, and financial intermediation. 
 
-I am available for interviews in the 2022-2023 job market.
+I will be joining the Rawls College of Business at Texas Tech University as an Assistant Professor of Finance in 2023.
 
