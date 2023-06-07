@@ -8,7 +8,7 @@ subtitle: Assistant Professor of Finance, Rawls College of Business
 profile:
   align: right
   image: profile_pic.jpeg
-  image_cicular: true # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular
   address: >
     <p>703 Flint Ave</p>
     <p>Lubbock, TX 79409</p>
