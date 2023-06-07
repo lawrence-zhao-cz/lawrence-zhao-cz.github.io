@@ -2,18 +2,18 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: Ph.D. Candidate in Finance, Jesse H. Jones Graduate School of Business
+subtitle: Assistant Professor of Finance, Rawls College of Business
 
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic.jpeg
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>6100 Main Street</p>
-    <p>Houston, Texas 77005</p>
-    <p><a href='mailto:lawrence.zhao@rice.edu'>lawrence.zhao@rice.edu</a></p>
-    <p>(802)-230-6684</p>
+    <p>703 Flint Ave</p>
+    <p>Lubbock, TX 79409</p>
+    <p><a href='mailto:lawrence.zhao@ttu.edu'>lawrence.zhao@ttu.edu</a></p>
+    <p>(806)834-2366</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am a Finance Ph.D. candidate at the Jesse H. Jones Graduate School of Business at Rice University.
+I am an Assistant Professor of Finance at the Rawls College of Business at Texas Tech University.
 
 My research interests include empirical corporate finance, household finance, competition, and financial intermediation. 
 
-I will be joining the Rawls College of Business at Texas Tech University as an Assistant Professor of Finance in 2023.
+Prior to joining Texas Tech University, I earned a B.B.A. in Finance and Mathematics and an M.S. in Economics from Baylor University, and a Ph.D. in Finance from Rice University.
 
