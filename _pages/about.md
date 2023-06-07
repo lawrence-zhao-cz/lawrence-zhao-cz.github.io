@@ -28,5 +28,5 @@ I am an Assistant Professor of Finance at the Rawls College of Business at Texas
 
 My research interests include empirical corporate finance, household finance, competition, and financial intermediation. 
 
-Prior to joining Texas Tech University, I earned a B.B.A. in Finance and Mathematics and an M.S. in Economics from Baylor University, and a Ph.D. in Finance from Rice University.
+Prior to joining Texas Tech University, I earned a B.B.A. in Finance and Mathematics from Baylor University, an M.S. in Economics from Baylor University, and a Ph.D. in Finance from Rice University.
 
