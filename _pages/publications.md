@@ -10,10 +10,6 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
   
-<h1>Job Market Paper</h1>
-
-{% bibliography -f papers -q @*[progress=jobmarketpaper]* %} 
-
 <h1>Working Papers</h1>
 
 {% bibliography -f papers -q @*[progress=workingpaper]* %}
